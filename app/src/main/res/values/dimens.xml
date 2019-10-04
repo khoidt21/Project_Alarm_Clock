@@ -1,0 +1,19 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="textSize">10sp</dimen>
+    <dimen name="textSizeAdd">25sp</dimen>
+    <dimen name="paddingRecycler">8dp</dimen>
+    <dimen name="textSizeToggleButton">25sp</dimen>
+    <dimen name="linearlayoutWeightSum">5</dimen>
+    <dimen name="linearlayoutHeight">60dp</dimen>
+    <dimen name="linearlayoutWeight">2</dimen>
+    <dimen name="textViewSize">25sp</dimen>
+    <dimen name="ems">10</dimen>
+    <dimen name="heigthTextHour">40dp</dimen>
+    <dimen name="heightTextMinute">20dp</dimen>
+    <dimen name="textSizeMinute">15sp</dimen>
+    <dimen name="weightLinearLayout">1</dimen>
+    <dimen name="heigthTextAMPM">40dp</dimen>
+    <dimen name="sizeTextAmpm">15sp</dimen>
+    <dimen name="titleMarginStart">155dp</dimen>
+</resources>

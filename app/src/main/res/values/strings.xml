@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alarm Clock</string>
+    <string name="title_activity_add_alarm">AddAlarmActivity</string>
+    <string name="add">ADD</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="addAlarm">Add Alarm</string>
+    <string name="editAlarm">Edit Alarm</string>
+</resources>
